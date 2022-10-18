@@ -2,7 +2,7 @@
 
 <h1>MiuiHomeR</h1>
 
-<b>Make MiuiHome Great Again - Xposed
+<b>Make MiuiHome Great Again - Xposed</b>
 
 ![Launcher](https://github.com/qqlittleice/MiuiHome/blob/main/Pic/MiuiHome.png)
 
@@ -11,8 +11,6 @@
 -----
 
 ## Creates
-
-<details>
 
 - [AndroidHiddenApiBypass](https://github.com/LSPosed/AndroidHiddenApiBypass)
 - [AndroidSystemBlur](https://github.com/Lucchetto/AndroidSystemBlur)
@@ -29,8 +27,6 @@
 - [QNotified](https://github.com/ferredoxin/QNotified)
 - [XposedBridge](https://github.com/rovo89/XposedBridge)
 
-</details>
-
 ## License
 
-[GNU General Public License v3.0](LICENSE)
+- [GNU General Public License v3.0](LICENSE)
